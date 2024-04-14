@@ -12,7 +12,7 @@ This repository is a minimalistic MLOps project intended as a starting point to 
 
 This is a representation of how it will all come together: 
 
-<img src=".assets/pipeline_overview.png" width="70%" alt="Pipelines Overview">
+<img src="lwanguml_tutorial/.assets/pipeline_overview.png" width="70%" alt="Pipelines Overview">
 
 Along the way we will also show you how to:
 
